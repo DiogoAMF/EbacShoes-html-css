@@ -116,6 +116,10 @@ button {
   margin: 13px 0;
 }
 
+button:hover {
+  background-color: #093454;
+}
+
 /* Estilos para telas entre 641px e 1023px */
 @media screen and (min-width: 641px) and (max-width: 1023px) {
   .container {
